@@ -1,6 +1,6 @@
 
 //Raytheon-Autopilot-Remote
-//Two way communication over Raytheon seatalk proprietary protocol
+//Two way communication over Raytheon seatalk
 
 
 #include <RCSwitch.h>
