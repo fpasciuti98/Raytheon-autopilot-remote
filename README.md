@@ -1,4 +1,4 @@
-Write and read Raytheon Seatalk data packages directly from the Seatalk data port.
+Write and read Raytheon Seatalk serial data directly from the Seatalk data port.
 The aim of the project was to create a remote control to remotly operate a Raytheon marine autopilot. 
 From the remote the user can modify and monitor the current vessel's heading that the autopilot is mantaining.
 The code runs on the remote receiver's ATmega32 powered by the autopilot power line and connected to the Seatalk data port. 
